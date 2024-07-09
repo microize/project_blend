@@ -27,6 +27,18 @@ Retrieve specific car images from our extensive repository using simple text pro
 4. To download an image, click on the desired image and then click the download icon at the top right corner.
 
 ---
+## Prompt Enhancer
+
+This tab helps enhance a simple prompt to improve prompt quality for image generation.
+
+### How to Use:
+1.	Go to the Prompt Enhancer tab.
+2.	Select the tab/section for which you need to generate.
+3.	Enter your text prompt in the provided field and click Submit.
+4.	The enhanced prompt will be displayed.
+
+
+---
 
 ## Generative Background Fill
 
